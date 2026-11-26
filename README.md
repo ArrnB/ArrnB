@@ -1,6 +1,6 @@
 # Hi, I'm Aryan 👋
 
-I'm a Computer Science & Engineering graduate with an integrated MBA (Amity University, 2026).
+I'm a Computer Science & Engineering graduate with an integrated MBA.
 I work at the intersection of **machine learning, data and business problems**. I've published on GANs
 for AI-generated image detection and researched AI adoption in finance and HR. I like
 building end-to-end tools that answer a real question.
