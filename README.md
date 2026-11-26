@@ -19,6 +19,7 @@ building end-to-end tools that answer a real question.
 
 ## Skills
 
-**Languages:** Python · C · C++ · Java · SQL · R · MATLAB
+**Languages:** Python · Kotlin · C · C++ · Java · SQL · R · MATLAB
 **ML / Data:** PyTorch · TensorFlow · Hugging Face Transformers · scikit-learn · OpenCV · pandas · NumPy · SciPy
+**Mobile & Systems:** Android (MVVM, Coroutines) · Raspberry Pi · Linux
 **Other:** Git & GitHub Actions · pytest · Tkinter · Data Structures · DBMS
